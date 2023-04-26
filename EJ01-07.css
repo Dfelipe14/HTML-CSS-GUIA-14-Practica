@@ -1,0 +1,24 @@
+#cuerpo {
+    background-color: rgb(168, 168, 134);
+}
+
+#H1 {
+    color: aquamarine;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+#H2 {
+    color: brown;
+
+    font-family: 'Silkscreen', cursive;
+}
+
+#P1 {
+    font-family: 'Silkscreen', cursive;
+    
+}
+#P2{
+    font-family: 'Noto Sans Wancho', sans-serif;
+font-family: 'Silkscreen', cursive;
+color: darkgreen;
+}

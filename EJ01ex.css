@@ -1,0 +1,19 @@
+#viñeta1,a{
+  list-style-type: lower-alpha;
+  font-family: 'Noto Sans Wancho', sans-serif;
+color: cyan;
+font-style: italic;
+}
+#viñeta2,a{
+    list-style-type:lower-roman;
+    color: chartreuse;
+    flood-color: coral;
+}
+#viñeta3,a{
+    list-style-type: lower-greek;
+    font-family: 'Oswald', sans-serif;
+    color: brown;
+}
+ul,li{
+    border-style: solid;
+}
